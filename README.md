@@ -5,7 +5,6 @@ This repository contains a simple starter template for building a library using 
 ## Features
 
 - ⚡️ [Vite](https://vitejs.dev) - Next Generation Frontend Tooling
-- 🦾 [TypeScript](https://www.typescriptlang.org) - Strong typing for applications of any size
 - 🧪 [Vitest](https://vitest.dev) - A Vite-native unit test framework
 - 📦 ESM, CJS, and IIFE builds
 
@@ -111,3 +110,7 @@ pnpm test:watch
 ```
 
 And, Done! ✨
+
+## Closing
+
+For typescript support starter, please refer to [this repository](https://github.com/nousantx/vite-library-starter).
