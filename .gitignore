@@ -1,5 +1,5 @@
 node_modules
 dist
-**/*.js
-**/*.css
-**/*.html
+./*.js
+./*.css
+./*.html
